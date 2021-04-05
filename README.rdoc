@@ -1,4 +1,4 @@
-# iteration2
+# iteration2 - this will be a merry chase
 # iteration 1
 == README
 
